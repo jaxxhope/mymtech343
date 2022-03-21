@@ -4,10 +4,11 @@
 - I started out with trying out different patterns in the banks and seeing what meshed well together and worked. I began the process with percussion and trying different variations of this specific pattern.
 <pre>
 s " ~ bd ~ ~ bd ~ ~ bd ~ ~ bd ~ ~ bd bd bd”
-
+</pre>
 - A simple yet functional pattern that alone sounds good. From there I began to build adding this pattern after having established my bass drum rhythm. I added this hand clap on top of the bass drum to help build my foundation.
 <pre>
 s "~ hc ~ ~ hc ~ ~ hc ~ hc ~ ~ hc”
+</pre>
 - From there I started trying more variations of the two patterns and even tried some of my old code that I had formulated earlier this semester. Though none of it seemed to click for me.
 <pre>
 s "[hh hh*3, hc bd*5] “
@@ -18,7 +19,7 @@ s "bd bd bd bd hh hc”
 s "~ bottle ~ click"
 s "~ hh ~ hh ~  hh ~ hh”
 s "bd ~ bd*3 ~ bd bd”
-
+</pre>
 - After going through these patterns I decided to outsource and see what was available to me via the web, as I knew what I was looking for, sound wise, but was unsure how to express those ideas through the code. I ended up finding these patterns and started to alter them from a website listed below.
 <pre>
 n "0 1*2 2*4 <3 4>" # s "<glitch coffee>”
@@ -29,7 +30,7 @@ s "coffee*8" # n (irand 39) #gain 1.5
 n "0 1*2 2*4 <3 4>" # s "<jungbass>" #gain 1.5
 s "coffee*8" # n (irand 100) #gain 1.5
 n "0 1*2 2*4 <3 4>" # s "<jungbass glitch>" #gain 1.0
-
+</pre>
 https://pdxopen.tech/courses/algomusic-ii-tidalcycles-midi-and-beyond/lessons/estuary-minitidal-finding-and-choosing-samples/
 
 - The process started to pick up after this as I just begun to improv and alter these patterns to my liking while performing which not only provided security and stability but fluidity as well.
