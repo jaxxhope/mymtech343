@@ -50,6 +50,7 @@ https://pdxopen.tech/courses/algomusic-ii-tidalcycles-midi-and-beyond/lessons/es
 
 ## Maya's Part
 
+- I am happy with the way the live / final performance turned out. I feel this was one of my favorite classes this semester and I'm glad that I've been able to learn and contrbute. A project I enjoyed naviagating and now have a set in my pocket should I chose to do a live coding performance anytime in the near future.
 - although Maya and I weren't able to perform together, there was still code Maya had created for the performance!!
 <pre>
 ## Option 1
@@ -107,5 +108,3 @@ noise(3,0.6,2)
 
 Add `.luma(0.1, 1)` to darken
 <pre>
-
-- I am happy with the way the live / final performance turned out. I feel this was one of my favorite classes this semester and I'm glad that I've been able to learn and contrbute. A project I enjoyed naviagating and now have a set in my pocket should I chose to do a live coding performance anytime in the near future.
